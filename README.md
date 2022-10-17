@@ -3,7 +3,7 @@ A collection of beautiful apps created using flutter , inpired by dribble or you
 
 
 
-| Name             |             Link              |               |                       Preview                        |
+| Name             |                |               |                       Preview                        |
 | ---------------- | :---------------------------: | :-------------------------------: | :--------------------------------------------------: |
 | Shopping cart UI | |  | <img src="./media/shopping_cart.gif" height="200" /> |
 | Flightapp UI     |  | [dribble](https://bit.ly/30v9YgG) |   <img src="./media/flightapp.gif" height="200" />   |
